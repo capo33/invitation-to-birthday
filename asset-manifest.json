@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/invitation/static/css/main.be2a8c8c.css",
-    "main.js": "/invitation/static/js/main.c29144e0.js",
-    "static/js/787.53512282.chunk.js": "/invitation/static/js/787.53512282.chunk.js",
-    "index.html": "/invitation/index.html",
-    "main.be2a8c8c.css.map": "/invitation/static/css/main.be2a8c8c.css.map",
-    "main.c29144e0.js.map": "/invitation/static/js/main.c29144e0.js.map",
-    "787.53512282.chunk.js.map": "/invitation/static/js/787.53512282.chunk.js.map"
+    "main.css": "/invitation-to-birthday/static/css/main.be2a8c8c.css",
+    "main.js": "/invitation-to-birthday/static/js/main.e5b96def.js",
+    "static/js/787.53512282.chunk.js": "/invitation-to-birthday/static/js/787.53512282.chunk.js",
+    "index.html": "/invitation-to-birthday/index.html",
+    "main.be2a8c8c.css.map": "/invitation-to-birthday/static/css/main.be2a8c8c.css.map",
+    "main.e5b96def.js.map": "/invitation-to-birthday/static/js/main.e5b96def.js.map",
+    "787.53512282.chunk.js.map": "/invitation-to-birthday/static/js/787.53512282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be2a8c8c.css",
-    "static/js/main.c29144e0.js"
+    "static/js/main.e5b96def.js"
   ]
 }
